@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eqenaeli.github.io/AIK/sitemap_index.txt
+Sitemap: https://eqenaeli.github.io/JAN/sitemap_index.txt
+Sitemap: https://eqenaeli.github.io/LWT/sitemap_index.txt
+Sitemap: https://eqenaeli.github.io/OTZ/sitemap_index.txt
